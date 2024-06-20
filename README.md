@@ -1,1 +1,1 @@
-Code was ran using Northwestern MLDS' GPU cluster.
+Code was run using Northwestern MLDS' GPU cluster.
